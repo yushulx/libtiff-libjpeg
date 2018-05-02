@@ -39,3 +39,6 @@ cmake --build . --config Release
 ## References
 - [Using The TIFF Library](http://www.libtiff.org/libtiff.html)
 - [TIFFGetField](http://www.libtiff.org/man/TIFFGetField.3t.html)
+
+## Blog
+[Building LibTIFF with LibJPEG on Windows](http://www.codepool.biz/building-libtiff-libjpeg-windows.html)
